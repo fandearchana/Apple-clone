@@ -1,0 +1,87 @@
+
+body{
+        margin: 0;
+        padding: 0;       
+        box-sizing: border-box ;
+        background-color: #e8e8e8;                             
+    }  
+    
+    table{
+        width: 100%;
+        text-align: center; 
+        border-collapse:collapse;      
+    }
+    .header{        
+        text-align: center;
+        font-family: sans-serif; 
+        font-size: small;                    
+    }
+    .list-items{
+        background-color: white;  
+     }
+     .getSection{
+      font-size: 22px;
+      text-align: center; 
+      line-height: 0px;
+     }
+     .getSection a{
+      text-decoration: none;
+      color:rgb(19, 129, 255);             
+     }
+     .getSection a:hover{
+      text-decoration: underline;
+     }     
+     .backgroundimage1{       
+        background-image: url(../image/background\ img.png);        
+        background-color: black;       
+        background-position: inherit;
+        background-repeat: no-repeat;  
+        background-size: cover;        
+        color: white;
+        height: 750px;       
+     }     
+     .backgroundimgContent{      
+        line-height: 0px; 
+        padding-bottom: 450px;      
+     }
+     .backgroundimgContent a{
+        font-size: 22px;
+        text-decoration: none;
+        font-weight: bolder;
+        color: rgb(19, 129, 255);
+     }
+     .backgroundimgContent p{
+        text-align: center;
+     }
+    .backgroundimgContent p a:hover{
+        text-decoration: underline;       
+     }
+     .backgroundimgContent p span{
+        color: rgb(19, 129, 255);
+     }
+     .backgroundimage2{       
+      background-image: url(../image/newphoria.png);           
+      background-size: 1500px 342px;
+      background-repeat: no-repeat;
+      background-position: fixed;  
+      background-size: cover;
+      height:750px;
+      margin-bottom: 10px;   
+   } 
+   .backgroundimage3{       
+      background-image: url(../image/love\ the\ pover\ love\ the\ phone.jpg);              
+      background-position: fixed;
+      background-repeat: no-repeat;  
+      background-size: cover;        
+      color: white;
+      height: 800px;       
+   }  
+   .backgroundimage4{       
+      background-image: url(../image/guided\ tour.JPG);               
+      background-position: inherit;
+      background-repeat: no-repeat;  
+      background-size: cover;        
+      color: white;
+      height: 750px;       
+   }             
+     
